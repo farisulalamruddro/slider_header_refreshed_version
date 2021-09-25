@@ -161,17 +161,14 @@ i{
 }
 
 .mobile-navigation .elements{
-	display: grid;
-	display: grid;
-  justify-items: center;
   margin-top: 50%;
   width: 100%;
+  text-align: center;
 
 }
 
 .mobile-navigation .elements a{
 	color: #fff;
-	margin-bottom: 16px;
 }
 
 .mobile-button1{
